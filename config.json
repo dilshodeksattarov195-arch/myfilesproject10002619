@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfender",
+        "uuid": 3661362,
+        "checksum": "j2mwml"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
